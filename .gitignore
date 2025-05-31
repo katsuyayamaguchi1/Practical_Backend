@@ -1,0 +1,17 @@
+# Python 仮想環境
+backend_env/
+
+# Python キャッシュ
+__pycache__/
+
+# データベースファイル（必要なら）
+*.db
+
+# その他不要なファイル
+*.pyc
+*.pyo
+*.pyd
+
+# VSCode 設定 (任意)
+.vscode/
+
